@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | ☁️ Cloud Engineer | 🔐 Blockchain & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Cloud+Certified;DevOps+%7C+Docker+%7C+K8s+%7C+CI%2FCD;AI+in+Healthcare+%7C+IPFS+%7C+Blockchain;Let's+build+something+awesome+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Cloud+Certified;DevOps+%7C+Docker+%7C+K8s+%7C+CI%2FCD;AI+in+Healthcare+%7C+IPFS+%7C+Blockchain;Let's+build+something+awesome+💻" alt="Typing SVG" />
 
 </p>
 

@@ -11,7 +11,7 @@
 ### 🌟 About Me
 
 - 💻 I’m currently working as an **SDE -1 @ Rubix Datasciences**
-- 🌐 Building scalable apps using **PHP, Python, IPFS, MQTT, Blockchain**
+- 🌐 Building scalable apps using **Python, IPFS, MQTT, Blockchain , JAVA , SPRING BOOT**
 - ☁️ Cloud Certified in **Azure AZ-900 | AI-900 | SC-900 | GCP Cloud Digital Leader**
 - 🧠 Focused on integrating **AI in healthcare** and **secure decentralized systems**
 - 📫 Reach me at: [gyanprakash.cse@gmail.com](mailto:gyanprakash.cse@gmail.com)
